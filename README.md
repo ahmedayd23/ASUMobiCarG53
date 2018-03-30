@@ -12,3 +12,8 @@
 
 ## Video Of Easy Driving Task
 https://youtu.be/4vemWRW2rcg
+
+## Sensors used
+
+1-Ultrasonic sensor
+ ![Alt text](https://image.ibb.co/ePAG9n/29893716_1897928823553560_193104140_o.jpg?raw=true "Title")
