@@ -11,7 +11,10 @@
 * Mohammed Abd Elfatah Ahmed Salman
 
 ## Video Of Easy Driving Task
-https://youtu.be/4vemWRW2rcg
+<a href="https://youtu.be/4vemWRW2rcg" target="_blank">Click here to watch video</a>
+
+<a href="https://youtu.be/4vemWRW2rcg" target="_blank"><img src="http://img.youtube.com/vi/4vemWRW2rcg/0.jpg" alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
+
 
 ## Sensors used
 
