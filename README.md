@@ -23,3 +23,7 @@
  ![Alt text](https://image.ibb.co/ePAG9n/29893716_1897928823553560_193104140_o.jpg?raw=true "Title")
  
 <p><b>Ultrasonic sensor is a device that can measure the distance to an object by using sound waves. It measures distance by sending out a sound wave at a specific frequency and listening for that sound wave to bounce back.</b></p>
+## vidio of line follower 
+<a href="https://www.youtube.com/watch?v=8CdaEo24wKw&feature=youtu.be" target="_blank">Click here to watch video</a>
+
+<a href="https://www.youtube.com/watch?v=8CdaEo24wKw&feature=youtu.be" target="_blank">
